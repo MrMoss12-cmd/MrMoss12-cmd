@@ -26,11 +26,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![MrMoss12-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMoss12-cmd&show_icons=true&theme=dark)
 
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMoss12-cmd&repo=your-repo-name-1&theme=dark)](https://github.com/MrMoss12-cmd/your-repo-name-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMoss12-cmd&repo=your-repo-name-2&theme=dark)](https://github.com/MrMoss12-cmd/your-repo-name-2)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
