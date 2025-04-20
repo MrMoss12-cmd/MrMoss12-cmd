@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 💻 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on any exciting projects involving AI and machine learning.
-- 💬 Ask me about Python, Java, and web development.
+- 💬 Ask me about Python, TypeScript, and web development.
 - 📫 How to reach me: eliashigueraacosta1@outlook.com
 - ⚡ Fun fact: I enjoy hiking and playing the guitar in my free time.
 
